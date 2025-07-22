@@ -19,7 +19,6 @@ A high-performance multithreaded proxy scraper for Windows that fetches fresh HT
 *NOTE: This library isn't designed for production use. It's advised to use your own proxies or purchase a service which provides an API. These are merely free ones that are retrieved from sites and should only be used for development or testing purposes.*
 
 
-
 ## 📌 Features
 
 - [x] Scrapes HTTP/S, SOCKS4, and SOCKS5 proxies
