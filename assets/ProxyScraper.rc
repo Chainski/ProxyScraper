@@ -17,7 +17,7 @@ BEGIN
             VALUE "InternalName", "ProxyScraper.exe"
             VALUE "OriginalFilename", "ProxyScraper.exe"
             VALUE "CompanyName", "Chainski"
-            VALUE "LegalCopyright", "© Chainski. All rights reserved."
+            VALUE "LegalCopyright", "\xA9 Chainski. All rights reserved."
             VALUE "ProductName", "ProxyScraper"
             VALUE "FileVersion", "1.0.0.0"
             VALUE "ProductVersion", "1.0.0.0"
